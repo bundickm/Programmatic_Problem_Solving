@@ -14,4 +14,4 @@ Many times, when someone is struggling with programming it is because of how the
 3. [Teacher Notebook](https://github.com/bundickm/Programmatic_Problem_Solving/blob/master/Problem_Solving_Programmatically_Lecture_Reference.ipynb)
 
 ## Video of the Lecture
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUgmKZ7Bz_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video Lecture](https://youtu.be/sUgmKZ7Bz_s)
