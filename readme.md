@@ -1,6 +1,6 @@
 # Programmatic Problem Solving
 
-Many times, when someone is struggling with programming it is because of how they approach solving the problem. It's very easy overlook mental shortcuts our brain takes but that a computer can't, this leads to many of the difficulties when coding. This repo is a collection of resources for teaching a methodical approach to solving programming problems.
+Many times, when someone is struggling with programming it is because of how they approach solving the problem. It's very easy to overlook mental shortcuts our brain takes but that a computer can't, this leads to many of the difficulties that come with coding. This repo is a collection of resources for teaching a methodical approach to solving programming problems.
 
 ![rubber duck](/Rubberduck.jpg)
 
